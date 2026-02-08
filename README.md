@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://wallpaperaccess.com/full/5927911.gif" width="100%" height="350" alt="Tech Banner">
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Dipak+👋;B.Tech+Computer+Science+Student+🎓;Machine+Learning+%26+Java+Full+Stack+Enthusiast+⚡;Turning+Data+%26+Code+into+Intelligent+Systems+🤖" alt="Typing Intro">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Rabi Shaw+👋;B.Tech+Computer+Science+Student+🎓;Machine+Learning+%26+Java+Full+Stack+Enthusiast+⚡;Turning+Data+%26+Code+into+Intelligent+Systems+🤖" alt="Typing Intro">
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </div>
